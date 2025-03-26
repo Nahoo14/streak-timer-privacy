@@ -1,8 +1,8 @@
-Last updated: 03-24-2025
+Last updated: 03-25-2025
 
 1. Introduction
 
-Streak Timer (“the App”) is designed to help users track personal streaks with a historical view and notes. Your privacy is important to us, and this Privacy Policy explains how we handle your data.
+Streak Timer (“the App”) is designed to help users track personal streaks with historical view and notes sections. Your privacy is important to us, and this Privacy Policy explains how we handle your data.
 
 2. Data Collection & Storage
 
@@ -18,6 +18,7 @@ Since all data is stored locally on your device:
 
 You have full control over your data.
 If you uninstall the app or lose your device, your data cannot be recovered.
+
 5. Children’s Privacy
 
 Streak Timer is rated for users 12 years and older. We do not knowingly collect personal data from children under 13.
